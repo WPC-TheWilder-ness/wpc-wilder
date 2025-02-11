@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on THE WILDER-NESS ADVENTURES!</title>
-    <link>https://wilder.wp.computer/tags/</link>
+    <link>https://adventures.wilder.wp.computer/tags/</link>
     <description>Recent content in Tags on THE WILDER-NESS ADVENTURES!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Mar 2024 15:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wilder.wp.computer/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://adventures.wilder.wp.computer/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
