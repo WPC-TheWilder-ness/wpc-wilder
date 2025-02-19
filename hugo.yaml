@@ -1,6 +1,6 @@
-baseURL: 'https://adventures.wilder.wp.computer'
+baseURL: 'https://wilder.wp.computer'
 languageCode: 'en-us'
-title: 'THE WILDER-NESS ADVENTURES!'
+title: 'THE WILDER-NESS ADVENTURES'
 theme: 'terminal'
 timeZone: ""
 menus:
