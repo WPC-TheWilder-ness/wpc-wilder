@@ -1,0 +1,52 @@
+# Ignore everything in FLOORSWEEPDUMP directory
+FLOORSWEEPDUMP/
+FLOORSWEEPDUMP/*
+
+# Vim
+*.swp
+*.swo
+*~
+.*.sw[a-p]
+Session.vim
+.netrwhist
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Rust
+/target/
+**/*.rs.bk
+Cargo.lock
