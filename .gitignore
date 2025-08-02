@@ -1,6 +1,8 @@
 # Ignore everything in FLOORSWEEPDUMP directory
 FLOORSWEEPDUMP/
 FLOORSWEEPDUMP/*
+WXACCCN3WPC/
+WXACCCN3WPC/*
 
 # Vim
 *.swp
